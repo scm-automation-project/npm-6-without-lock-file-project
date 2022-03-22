@@ -4,7 +4,7 @@
   "description": "npm-6-project",
   "main": "index.js",
   "dependencies": {
-    "yargs-parser": "9.0.2",
+    "yargs-parser": "13.1.2",
     "minimist": "1.2.0",
     "handlebars": "4.1.2",
     "tree-kill": "1.2.1",
