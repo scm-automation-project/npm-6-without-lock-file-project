@@ -9,7 +9,7 @@
     "handlebars": "4.1.2",
     "tree-kill": "1.2.1",
     "node-fetch": "2.6.0",
-    "ajv": "6.10.2"
+    "ajv": "6.12.3"
   },
   "author": "sultan abu baker",
   "license": "ISC"
